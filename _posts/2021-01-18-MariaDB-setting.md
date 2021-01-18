@@ -3,9 +3,9 @@ title: "MariaDB mac os에 세팅하기"
 excerpt: "맥북에 MariaDB를 세팅해보자."
 
 categories:
-	- Setting
+  - Blog
 tags:
-	- Setting
+  - Blog
 ---
 
 
