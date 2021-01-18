@@ -6,7 +6,6 @@ categories:
 	- Setting
 tags:
 	- Setting
-	- MariaDB
 ---
 
 
