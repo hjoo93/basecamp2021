@@ -5,7 +5,7 @@ excerpt: "맥북에 MariaDB를 세팅해보자."
 categories:
   - Blog
 tags:
-  - Blog
+  - MariaDB
 ---
 
 
