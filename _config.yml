@@ -24,7 +24,7 @@ description              : "끊임없이 공부하자"
 url                      : https://hwandong-joo.github.io
 baseurl                  : # /hwandong-joo.github.io
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/avatar.jpg"
+teaser                   : # "/assets/images/avatar.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "주환동"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "나는 **개발자** 다."
   location         : "엔에치엔고도(주)"
   email            : "hwandong-joo@godo.co.kr"
